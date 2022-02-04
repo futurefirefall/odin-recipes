@@ -1,0 +1,46 @@
+body {
+    background-color: bisque;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+
+.logo {
+    display: block;
+    margin-left: 0;
+    margin-top: 0;
+    width: 200px;
+}
+
+.center-header {
+    text-align: center;
+    font-size: 45px;
+    color: black;
+}
+
+.recipes {
+    list-style: none;
+}
+
+.recipes li {
+    margin: 10px;
+}
+
+.recipes li a {
+    text-decoration: none;
+    color: grey;
+}
+
+p, ul, ol{
+    color: grey;
+}
+
+.ingredients {
+    color: black;
+}
+
+img {
+    display: block;
+    width: 350px;
+}
